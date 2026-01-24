@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Samobi Carbon - Calculadora de Pegada de Carbono",
+  description: "Calcule sua pegada de carbono e contribua para um planeta mais sustentável",
 };
 
 export default function RootLayout({
